@@ -2,7 +2,8 @@
 Simple flask application to manipulate DICOM format imaging files
 
 ## Starting the microservice
-python micro_service.py
+from terminal:
+```python micro_service.py```
 
 ## Sample calls
 ### Upload File 
